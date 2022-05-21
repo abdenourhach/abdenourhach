@@ -1,10 +1,10 @@
 
-# flutter instructor ✍🏻
+# ![Junior Flutter Developer] ✍🏻
 
 ![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
 
-![Junior Flutter Developer]
+
 
 ### Hi there 👋,I,m Abdenour Hachrouf 👨‍💻
 #### Junior Flutter Developer
