@@ -29,7 +29,7 @@ I'm Abdenour from Algeria, Msila, and I do special mobile apps, I have a deep in
  
  </a>
  
-<a href="https://linkedin.com/in/abdenourhachrouf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdenourhachrouf" height="30" width="40" />
+<a href="https://linkedin.com/in/AbdenourHachrouf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AbdenourHachrouf" height="30" width="40" />
  
  </a>
 
