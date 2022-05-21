@@ -6,7 +6,7 @@
 
 
 
-### Hi there 👋,I,m Abdenour Hachrouf 👨‍💻
+### Hi there 👋,I,am Abdenour Hachrouf 👨‍💻
 #### Junior Flutter Developer
 I'm Abdenour from Algeria, Msila, and I do special mobile apps, I have a deep interest in computer sciences, and I have fun learning programming, Junior Software engineer has experience in mobile development using flutter framework and dart programming language, and I am a Digial Marketer who has years of experience  
 
