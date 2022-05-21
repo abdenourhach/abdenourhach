@@ -1,25 +1,25 @@
-package main
+Night Coding
+Hey there! I'm Aditya
+👨🏻‍💻  About Me
+💡  I like to explore new technologies and develop software solutions and quick hacks.
+🎓  I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.
+🌱  I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
+✍️  In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.
+💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
+✉️  You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.
+📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
 
-import (
-	"fmt"
-)
+Night Coding
 
-type Bio map[string]string
+🛠  Tech Stack
+Python  JavaScript  Java  C  C++  R (Statistics)
+React  Node.js  Django  Flask  Bootstrap
+HTML  CSS  Git  GitHub  Markdown
+Visual Studio Code  RStudio  Eclipse
+Illustrator  Photoshop  InDesign
 
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
+⚙️  GitHub Analytics
+ 
 
-func GetBio() Bio {
-	return Bio{
-		"- ⚡ Quick bio:":                    "A kind of metalHead-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
-		"- 🔭 I’m currently working on":      "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
-		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
-		"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
-		"- 📫 How to reach me:":              "https://github.com/AnhellO#you-can-reach-me-at-alien",
-	}
-}
+🤝🏻  Connect with Me
+      
